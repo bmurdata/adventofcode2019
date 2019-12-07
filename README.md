@@ -1,2 +1,3 @@
-# adventofcode2019
-Advent of Code 2019 adventofcode.com
+# Advent of Code 2019
+ My code submissions for the [Advent of Code](https://adventofcode.com/)
+ 
